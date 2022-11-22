@@ -1,13 +1,69 @@
 package dev.ryanseo.tutorial;
 
+import com.google.gson.annotations.SerializedName;
+
 public class Video {
     private String videoId;
     private String title;
-    private String videoOwnerChannelTitle;
     private String videoOwnerChannelId;
+    private String videoOwnerChannelTitle;
     private PrivacyStatus privacyStatus;
 
-    // highest resolution
+    // high resolution
+    @SerializedName("url")
     private String thumbnailUrl;
 
+    public Video(String videoId, String title, String videoOwnerChannelId, String videoOwnerChannelTitle, PrivacyStatus privacyStatus, String thumbnailUrl) {
+        this.videoId = videoId;
+        this.title = title;
+        this.videoOwnerChannelId = videoOwnerChannelId;
+        this.videoOwnerChannelTitle = videoOwnerChannelTitle;
+        this.privacyStatus = privacyStatus;
+        this.thumbnailUrl = thumbnailUrl;
+    }
+
+    public String getVideoId() {
+        return videoId;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getVideoOwnerChannelId() {
+        return videoOwnerChannelId;
+    }
+
+    public String getVideoOwnerChannelTitle() {
+        return videoOwnerChannelTitle;
+    }
+
+    public PrivacyStatus getPrivacyStatus() {
+        return privacyStatus;
+    }
+
+    public String getThumbnailUrl() {
+        return thumbnailUrl;
+    }
+
+    @Override
+    public String toString() {
+        return "Video{" +
+                "videoId='" + videoId + '\'' +
+                ", title='" + title + '\'' +
+                ", videoOwnerChannelId='" + videoOwnerChannelId + '\'' +
+                ", videoOwnerChannelTitle='" + videoOwnerChannelTitle + '\'' +
+                ", privacyStatus=" + privacyStatus + '\'' +
+                ", thumbnailUrl=" + thumbnailUrl +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof Video) {
+            return ((Video) obj).getVideoId().equals(this.getVideoId());
+        } else {
+            return false;
+        }
+    }
 }

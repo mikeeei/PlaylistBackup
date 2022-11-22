@@ -7,7 +7,7 @@ group 'dev.ryanseo'
 version '1.0-SNAPSHOT'
 
 run {
-    mainClassName = 'dev.ryanseo.tutorial.ApiExample'
+    mainClassName = 'dev.ryanseo.tutorial.Main'
 }
 
 repositories {
