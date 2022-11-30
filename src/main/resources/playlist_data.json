@@ -1,0 +1,2425 @@
+{
+  "etag" : "zbBgHFwWGy3SPkjlStUIohqf7pE",
+  "items" : [ {
+    "etag" : "oo9lO059hPmqHqkICDLa4joA0Uk",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BQkFDMDJGRUUxREYzMjJD",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "わたしの好きな歌を歌います。54曲目。\n\n\nカバーさせていただきました。\n\n「初恋日記」\n作詞・作曲・編曲：香椎モイミ\nhttps://youtu.be/ZhjfsY49JhY\n\n\nIllustration：適当緑（ https://twitter.com/tekito_midori ）\n\n\nMix：＄ＫＩＹＡＫＩ＄ＫＩ\n\n---\n\n2021.12.8リリース\nヰ世界情緒 1st ALBUM「創生」\nStreaming & Download：https://lnk.to/isekaijoucho_creation\nCD：https://findmestore.thinkr.jp/blogs/features/isekaijoucho211023#item_01\n\n---\n\nヰ世界情緒(いせかいじょうちょ)Twitter　https://twitter.com/isekaijoucho\nKAMITSUBAKI STUDIO　https://twitter.com/kamitsubaki_jp\n\n#ヰ世界情緒\n#KAMITSUBAKI_STUDIO",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 0,
+      "publishedAt" : "2022-11-27T18:38:18.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "kmkMfFljd-0"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/kmkMfFljd-0/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/kmkMfFljd-0/hqdefault.jpg",
+          "width" : 480
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/kmkMfFljd-0/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/kmkMfFljd-0/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "【歌ってみた】初恋日記/ covered by ヰ世界情緒",
+      "videoOwnerChannelTitle" : "ヰ世界情緒 -Isekaijoucho-",
+      "videoOwnerChannelId" : "UCah4_WVjmr8XA7i5aigwV-Q"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "pda8zaMK9XPReDtSNonepV6PYw4",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5CNjczRjQwMDUzMEQ3NThE",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Original - https://youtu.be/mq88yUFdVng\n\nMusic - すりぃ\nBass - malo \nIllustration - SPIKE\n(※本家様のMVを使用させていただいております。)\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\nVocal - senq\n https://twitter.com/senqsn\n\nMix - Koya\nhttps://twitter.com/koya_1213\n\nEnc - せな\nhttps://twitter.com/11sn_4\n\n\nThank you for listening to tried singing !!\n\n※無断転載禁止/未授权转载禁止/Do Not Re-upload.\n※アレンジが含まれますので苦手な方はブラウザバックをお願いします。\n\n\n#歌ってみた  #すりぃ #ラヴィ",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 1,
+      "publishedAt" : "2022-11-26T17:48:09.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "XdYitRXLYes"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/XdYitRXLYes/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/XdYitRXLYes/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/XdYitRXLYes/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/XdYitRXLYes/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/XdYitRXLYes/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "ラヴィ / すりぃ - senq. (cover)",
+      "videoOwnerChannelTitle" : "senq.",
+      "videoOwnerChannelId" : "UCbHUw_7RVpNzoq1bqNDrAGg"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "MSmik-49KWYJtl_tiqLHYkBhVp0",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43RUUzMEUwQjE4NjE4REZG",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Original by kairikibear\nhttps://youtu.be/FkO8ub83wss\n\nVocal: nui\nhttps://twitter.com/sewnui\n\nIllustration: haru\nhttps://twitter.com/Haru57928031 \n\nMovie: cymo\nhttps://twitter.com/Re_lightnovel\n\nMix: junpe\nhttps://twitter.com/multibandcomp",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 2,
+      "publishedAt" : "2022-11-23T11:44:38.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "rDH6kChKgx8"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/rDH6kChKgx8/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/rDH6kChKgx8/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/rDH6kChKgx8/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/rDH6kChKgx8/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/rDH6kChKgx8/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "バグ ver. nui",
+      "videoOwnerChannelTitle" : "nui",
+      "videoOwnerChannelId" : "UCWicIpAinE2yrWohpRuERZg"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "-mKgS8NKVUq0QZKRMO20Taudn38",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42NDVDQkFFNDlDMUU0NkRB",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Kanariaです。\n\nTVアニメ『チェンソーマン』第6話エンディング・テーマ\nStreaming/DL：https://linkco.re/Nz214Uam\n\nMusic＆Vocal / Kanaria\n\n監督 /久保洋祐\nアニメーション制作 /Qzil.la\nキャラクター原案/LAM\nデザインワークス/雷雷公社\n\noffvocal　https://drive.google.com/drive/folders/1GLJ5jm92svWDJy3Ex6H-M0cP0A7XZ4Xo?usp=sharing\n\n#Kanaria #大脳的なランデブー  #chainsawman\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nTwitter 　https://twitter.com/Kanaria390\nYoutube　https://www.youtube.com/channel/UC10BM9XdLdrvB8japwmRUvA",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 3,
+      "publishedAt" : "2022-11-23T05:51:27.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "GmU8KIfhmpQ"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/GmU8KIfhmpQ/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/GmU8KIfhmpQ/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/GmU8KIfhmpQ/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/GmU8KIfhmpQ/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/GmU8KIfhmpQ/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "【Kanaria】大脳的なランデブー",
+      "videoOwnerChannelTitle" : "Kanaria",
+      "videoOwnerChannelId" : "UC10BM9XdLdrvB8japwmRUvA"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "O4zN2Lm6WushP11y482kcz6ps1w",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zNjc2ODczOEQyQTAwMURD",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "月見ヴァアヴァー\n\n\n▋Original\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n・原曲（米津玄師 さん）\n・https://youtu.be/M2cckDmNLMI\n\n▋Vocal / Mix / Movie\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n・超学生\n・Twitter： https://twitter.com/tyougakusei\n・再生リスト： https://www.youtube.com/playlist?list=PL5ohYb4e_1y2lLN6PCfXaENvVZNju2QX9 \n\n▋Lyric Video\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n・LOVETEN PROJECT\n・Twitter： https://twitter.com/loveten_10\n・チャンネル： https://www.youtube.com/channel/UCjisQPxbXOxZ2sm60SW-y0A\n\n▋Instrumental\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n・Jonatan King\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n\n歌詞翻訳やタイトル、概要欄の翻訳\nまたは字幕ファイルを提供頂ける際には\n・該当動画のURL\n・翻訳先の言語\n・(歌詞の場合)元の歌詞のどこに一致するか\n例:Hello(こんにちは)\n（字幕ファイルの場合は不要です）\n・最後に表示する翻訳担当者のハンドルネーム or 匿名希望\n\nをメッセージ内に記載いただき、\n他者やサイトの著作物でないことをご確認の上、\nchogakusei.info@gmail.com\nまでご送信ください。\n\n\n#KenshiYonezu #KICKBACK #超学生 #歌ってみた #chainsawman",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 4,
+      "publishedAt" : "2022-11-23T05:39:38.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "lGKLrn9uAVM"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/lGKLrn9uAVM/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/lGKLrn9uAVM/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/lGKLrn9uAVM/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/lGKLrn9uAVM/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/lGKLrn9uAVM/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "【超学生】KICK BACK @歌ってみた",
+      "videoOwnerChannelTitle" : "Chogakusei Official",
+      "videoOwnerChannelId" : "UCxIK6x6sG7Ln5vjjPYpgeAw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "v488SHcbGr1B8UVl1p9zPB6VugE",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BMkFFNTYwNDEwNEQ3RDVF",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Original.\nラブカ？ / 柊キライ feat.flower\nhttps://youtu.be/1Esz9ONM9X8\n\n\n\n\n\n\n\n\nMix. \n999(@guguchan_9)",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 5,
+      "publishedAt" : "2022-11-23T04:13:04.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "I5HFKsdO3-M"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/I5HFKsdO3-M/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/I5HFKsdO3-M/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/I5HFKsdO3-M/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/I5HFKsdO3-M/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/I5HFKsdO3-M/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "라브카? [ラブカ？] cover.",
+      "videoOwnerChannelTitle" : "동 아",
+      "videoOwnerChannelId" : "UC0SVNjvlzOHqB_fyiZQ_S3Q"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "DlQj0ibQvIrnwJps0TRcUxYljq4",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xRTYwMDMzMTFGMkE3RkMy",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "*한국어 자막이 있습니다!\n(다음곡은 꼭 완곡으로 들고오겠습니다! ^ -ㅠ )\n\n\n\n\nOriginal.\nきゅうくらりん / いよわ feat.可不（Kyu-kurarin / Iyowa feat.Kafu）\nhttps://youtu.be/2b1IexhKPz4\n\n\n\n\n\n\n\n\nMix.\n까를 (@Karl_B2W)",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 6,
+      "publishedAt" : "2022-11-23T04:12:42.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "WTylX5nJwcU"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/WTylX5nJwcU/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/WTylX5nJwcU/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/WTylX5nJwcU/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/WTylX5nJwcU/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/WTylX5nJwcU/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "두근 어질 [きゅうくらりん] 1절치기 cover.",
+      "videoOwnerChannelTitle" : "동 아",
+      "videoOwnerChannelId" : "UC0SVNjvlzOHqB_fyiZQ_S3Q"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "PVH29asLYqV64rADLWYPby8e640",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5FQUQ3Rjg3QkUzNzA4NERC",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Original：きゅうくらりん / いよわ feat.可不\nhttps://youtu.be/2b1IexhKPz4\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n◆Credit（敬称略）\n\nVocal：藍月なくる\nTwitter：https://twitter.com/NakuruAitsuki\n\nMix：石塚陽大（Hifumi,inc.）\nhttps://twitter.com/Digitalphonic\n\nIllustration：よういち\nhttps://twitter.com/wowo_oe_aiyiy_\n\nMovie：らいり\nhttps://twitter.com/_Rai28\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n◆藍月なくる\nリアルとバーチャルを行き来するシンガー。クラゲが好き。\n歌ってみたやオリジナル楽曲のＭＶ、ＣＤを作ったり音楽活動をしてます。\n最近はTRPGの配信にもお邪魔したり。\n\nTwitter：https://twitter.com/NakuruAitsuki\nCi-en：https://ci-en.net/creator/7588",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 7,
+      "publishedAt" : "2022-11-23T04:09:42.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "gtJXHH5UQyI"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/gtJXHH5UQyI/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/gtJXHH5UQyI/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/gtJXHH5UQyI/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/gtJXHH5UQyI/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/gtJXHH5UQyI/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "きゅうくらりん / covered by 藍月なくる",
+      "videoOwnerChannelTitle" : "藍月なくる / Aitsuki Nakuru",
+      "videoOwnerChannelId" : "UCQHCHIoeu0FRJTJNMG2_Ezw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "-Ft2nEmad2KGEnDmvTJ9rF78SV8",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xQUE1ODRFODA3RDAwOTVB",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "soraneko\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n\n\n\n\n\n ｼｱﾜｾ\n｢辛いです｣\n\n\n\n\n\n\nそらねこです！\n今回は《かいりきベア》様の【アンヘル】を－3キーで歌わせていただきました！\nベアさんの曲はやはり歌っていて楽しかったです！！\nただ、申し訳ないことに初めて歌詞を間違えてしまいました。\n本当にごめんなさい！！！\n歌の内容に関しては、がなりとビブラートの組み合わせだったり、抑揚を意識したりだとか自分的には頑張りました…、どうでしょうか？\n\n\n\n今回もご清聴ありがとうございました！\n\n\n\n\n\n\n\n\n\n\n上手だと思ったら高評価\n下手だと思ったら低評価\n\n素直な評価をお願いします。\n\n\n\n\nコメントでアドバイスなどをしてくれるとありがたいです！！\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n□素晴らしき本家様：https://nico.ms/sm34871494?cp_webto=share_others_iosapp\n\n\n■vocal：そらねこ\n\n\n\n□mix&mst ：Ragu様\n\n\n\n■enc：らふどん様\n\n\n\nご協力ありがとうございました！\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n▶Twitter\n\nそらねこ(@_soraneko_22)\n\n\nhttps://twitter.com/_soraneko_22\n\n\nRagu様(@palette_rag)\n\n\nhttps://twitter.com/palette_rag\n\n\nらふどん様(@rfdn_0117)\n\n\nhttps://twitter.com/rfdn_0117\n\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n▷YouTubeチャンネル\n\nらふどん様の個人チャンネル↓\n\nhttps://www.youtube.com/user/rfdn0117",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 8,
+      "publishedAt" : "2022-11-23T03:45:44.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "kAMObS1rXBk"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/kAMObS1rXBk/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/kAMObS1rXBk/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/kAMObS1rXBk/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/kAMObS1rXBk/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/kAMObS1rXBk/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "‪【中学生が】アンヘル／かいりきベア【歌ってみた】Ver.そらねこ‬",
+      "videoOwnerChannelTitle" : "そらねこ๑",
+      "videoOwnerChannelId" : "UClbFTFmjU_8L5kiIjqgE7Zw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "T4-X7I93JFL6ZacD3Qy5ghiudqQ",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5FMEI1QjUyOTRBRUVBRkMy",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "soraneko\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n\n\n\n\n\n\n\n\nそらねこです！\n今回は《かいりきベア》様の【ベノム】をワンコーラスで歌わせていただきました！\nかいりきベアさんの曲でかなり人気のあるベノム…！！\nこの曲、中毒性あって音が高いのでかなり気持ちよく歌えました！！\nでも実力不足で迫力にかけると言いますか…、この曲に関してはもっと良いものでフルを投稿したいので今はワンコーラスを投稿します！！\n\n\n\n\nご清聴ありがとうございました！\n\n\n\n\n\n\n\n上手だと思ったら高評価\n下手だと思ったら低評価\n\n素直な評価をお願いします。\n\n\n\n\nコメントでアドバイスなどをしてくれるとありがたいです！！\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n□素晴らしき本家様：https://youtu.be/oRJBwaZ59fQ\n\n\n■vocal：そらねこ\n\n\n\n□mix&mst&enc：ネコキック様\n\n\n\nご協力ありがとうございました！\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n▶Twitter\n\nそらねこ(@_soraneko_22)\n\nhttps://twitter.com/_soraneko_22\n\n\nネコキック様(@nekokick12)\n\nhttps://twitter.com/nekokick12\n\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n▷YouTubeチャンネル\n\n\nネコキック様の個人チャンネル↓↓↓\n\nhttps://www.youtube.com/channel/UC5PjXBDbqw8vtnTK21xAzxA",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 9,
+      "publishedAt" : "2022-11-23T03:45:14.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "04Hd2jrc8uY"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/04Hd2jrc8uY/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/04Hd2jrc8uY/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/04Hd2jrc8uY/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/04Hd2jrc8uY/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/04Hd2jrc8uY/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "【2周年】【中学生が】ベノム／かいりきベア【歌ってみた】Ver.そらねこ",
+      "videoOwnerChannelTitle" : "そらねこ๑",
+      "videoOwnerChannelId" : "UClbFTFmjU_8L5kiIjqgE7Zw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "SuJ2jcQN-xqAplfN7_HSBxDkKXE",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xQzVDQUY4NEIwNTUwNTVC",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "soraneko\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n心は満たされない\n愛を頂戴\n\n\n\n\n▷▶︎Original：https://youtu.be/XfUao0_54yM\n\n\n▷nico：‪ https://nico.ms/sm36548505?cp_webto=share_others_iosapp‬\n\n■Vocal：そらねこ\n\n□Mixing：くりすぴー\n\n■Encoding ：ろみ\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n▷Twitter&YouTubechannel\n\n\n▶︎Music & Lyrics：かいりきベア(@kairiki_bear)\n［https://twitter.com/kairiki_bear ］\n［https://www.youtube.com/user/kairikibear ］\n\n▶︎Illustration：のう(@nounoknown)\n［https://twitter.com/nounoknown ］\n\n\n\n■Vocal：そらねこ(@_soraneko_22)\n［https://twitter.com/_soraneko_22 ］\n\n■Mixing：くりすぴー(@XpointP)\n［https://twitter.com/XpointP ］\n［https://www.youtube.com/channel/UCS8riFCYiU3ZkXIE8GuEqLQ ］\n\n■Encoding：ろみ(@Romikun_) \n［https://twitter.com/Romikun_  ］\n［https://www.youtube.com/channel/UCJ7fNI-ofR60pqVy3Nsazmw ］\n\n \n⚠︎敬称略\n 　･･･アレンジ等苦手な方はご注意ください。",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 10,
+      "publishedAt" : "2022-11-23T03:44:59.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "754WBZONwes"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/754WBZONwes/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/754WBZONwes/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/754WBZONwes/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/754WBZONwes/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/754WBZONwes/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "ルマ／歌ってみた【そらねこ】",
+      "videoOwnerChannelTitle" : "そらねこ๑",
+      "videoOwnerChannelId" : "UClbFTFmjU_8L5kiIjqgE7Zw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "prcp-MngnRAOcv5cYnvWWqh1poI",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44RjBGOTlBNzlBM0M3M0Uy",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "soraneko／Remingumingu\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n\n\nこの曲好き！！\n\n\n\n\n\n\n▷▶︎Original：https://youtu.be/4oCuGeHWzCo\n\n\n\n■Vocal：そらねこ\n\n\n□Mixing：ゆう。ちゃん\n\n\n■Encoding ：橘 まおくん\n\n\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n▷Twitter&YouTubechannel\n\n\n\n\n■Vocal：そらねこ(@_soraneko_22)\n［https://twitter.com/_soraneko_22 ］\n\n\n\n■Mixing：ゆう。(@_yuou)\n［https://twitter.com/_yuou］\n［https://m.youtube.com/channel/UCuUJ4A_PeZOFTD5koXQcg5w］\n\n\n\n■Encoding：橘 真緒(@sing_nico_mao) \n［https://twitter.com/sing_nico_mao］\n［https://m.youtube.com/channel/UCtDz1nB59A_fOqMQkPLNeGA］\n\n \n\n⚠︎敬称略\nキー変更→原キー\n 　･･･アレンジ等苦手な方はご注意ください。\n\n#ワンコーラス",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 11,
+      "publishedAt" : "2022-11-23T03:43:38.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "YZMJSgAu-rs"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/YZMJSgAu-rs/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/YZMJSgAu-rs/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/YZMJSgAu-rs/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/YZMJSgAu-rs/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/YZMJSgAu-rs/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "レミングミング／歌ってみた【そらねこ】",
+      "videoOwnerChannelTitle" : "そらねこ๑",
+      "videoOwnerChannelId" : "UClbFTFmjU_8L5kiIjqgE7Zw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "TzS8y9VR5fBlgJlztY7opD_ehXY",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi45MTQwRDc1RkZGQ0NDRUIw",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "soraneko\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n初めまして！そらねこです！！\n\n\n今回は「いよわ」さんの「きゅうくらりん」を歌ってみました！\nちょっと前の音源なのでご愛嬌…\n MVが可愛くてイメージがピンク色の曲はあまり歌ったことないので新鮮かと思います！\nたくさん聴いてください！\n\n是非他の動画も覗いてみてね！！！\n\n\n\n▷▶︎Original：https://youtu.be/2b1IexhKPz4\n\n\n■Vocal：そらねこ\n\n□Mixing：ゆう。様\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n▷Twitter&YouTubechannel\n\n\n■Vocal：そらねこ(@_soraneko_22)\n［https://twitter.com/_soraneko_22 ］\n\n■Mixing：ゆう。(@_Yuou)\n［https://twitter.com/_yuou］\n［https://m.youtube.com/c/yuu12］\n\n \n\n⚠︎敬称略\nキー変更→−２キー\n 　･･･アレンジ等苦手な方はご注意ください。\n\n#フルコーラス\n#いよわ",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 12,
+      "publishedAt" : "2022-11-23T03:40:48.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "7gKajDS0xHQ"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/7gKajDS0xHQ/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/7gKajDS0xHQ/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/7gKajDS0xHQ/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/7gKajDS0xHQ/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/7gKajDS0xHQ/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "きゅうくらりん／歌ってみた【そらねこ】",
+      "videoOwnerChannelTitle" : "そらねこ๑",
+      "videoOwnerChannelId" : "UClbFTFmjU_8L5kiIjqgE7Zw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "bUbnPpHVgbB9FSq4C11Zpk6qN8M",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5ENUUzNDQ4RjRBOEVFQkRD",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Soraneko\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n\n\n今回は「メドミア」さんの「キッカイケッタイ」を歌ってみました！\n\n\n▷▶︎Original : https://youtu.be/ft97RCDnCaY\n\n\n■Vocal : そらねこ\n□Mixing : @KOMAINU. (‪@komainu_com‬)\n［https://twitter.com/komainu_com］\n□Ilustration :  @ぽると (@Po___ruto)\n［https://twitter.com/po___ruto］\n\n\nｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ\n▷Soraneko's SNSLink\n\n▶︎Twitter : https://twitter.com/_soraneko_22\n▷TwitCasting : https://twitcasting.tv/_soraneko_22\n▶︎TikTok : https://www.tiktok.com/@sorank0202\n▷BOOTH : https://nekonosorane.booth.pm\n\n\n⚠︎敬称略\nKey→±0\n 　･･･アレンジ等苦手な方はご注意ください。\n\n#フルコーラス\n#メドミア\n#キッカイケッタイ",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 13,
+      "publishedAt" : "2022-11-23T03:38:15.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "3mhQeBdRUOU"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/3mhQeBdRUOU/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/3mhQeBdRUOU/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/3mhQeBdRUOU/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/3mhQeBdRUOU/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/3mhQeBdRUOU/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "キッカイケッタイ／歌ってみた【そらねこ】",
+      "videoOwnerChannelTitle" : "そらねこ๑",
+      "videoOwnerChannelId" : "UClbFTFmjU_8L5kiIjqgE7Zw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "cBuEpmLyOnzjVIwmA2yCZxPgh9A",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi45N0FCMzAxRUE0NDgwODA3",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "「喰わせろ縺雁燕縺ｮ陬ｸ」\n\n「喰」（ショク）\n\nみつあくま feat.初音ミク\nhttps://twitter.com/mitsu_akuma\n（よかったらフォローしてね）\n\nイラスト：狗ヲさん\nhttps://twitter.com/inuwoartwork\nhttps://www.pixiv.net/artworks/101935202\nhttps://twitter.com/inuwoartwork/status/1580891177796046848\n\n#プロセカNEXT #みつあくま #初音ミク\nプロセカNEXT応募曲です。\n第15回プロセカNEXT応募楽曲\n\n低評価よろしく！\nインスト！でーた\nhttps://drive.google.com/drive/folders/1fkSSWWg0-SDbKozmUfdzoFjq592LU7Pi?usp=share_link\n\n【歌詞】\nTonight I will eat your body\nOh, I'm jealous\nYou're in a coma, so you're docile\nI'll gently undress you\n\nLet's put salt and pepper on it\nThat's a little salty\nI didn't need any seasoning, thanks to your tears\nYou have to enjoy the natural flavor of the ingredients\n\nI'm toying with you like a dice steak\nParty\nCome on, feel the sex\n\nYou're so cute, Miku\n\nLet me feed you\n\nBloody. Highlights\nYes, carnival\nCannibalistic urges are driving me crazy\n\nI'm in pain. Help me\nThe screams become pleasure\nI can't sleep tonight, my heart is pounding in my chest\n\nBlood everywhere! He's dead!\nI've scratched and scratched\nAlgorithms are driving me crazy\n\ntic-tac-tac-tac, spasms, convulsions\nlapdog\nI'll eat you for that\nI love you to death",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 14,
+      "publishedAt" : "2022-11-22T12:08:41.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "3p1r3EKMb1I"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/3p1r3EKMb1I/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/3p1r3EKMb1I/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/3p1r3EKMb1I/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/3p1r3EKMb1I/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/3p1r3EKMb1I/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "shoku",
+      "videoOwnerChannelTitle" : "みつあくま(mitsu)",
+      "videoOwnerChannelId" : "UCtne7wC5nEDx5p4JzJf9JHQ"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "eID1817i311sAaZM8IWJIgfcIjI",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43NzgxOEIxNDdCQzc5NkY0",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "ぐしゃぐしゃぐしゃ！！！！！！！！！！！\n\n\n\n本家様 https://youtu.be/6yRl1tQ6y4U\n\nvo.mix 9Lana\n\n#ラッシャイナ #柊マグネタイト #歌ってみた",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 15,
+      "publishedAt" : "2022-11-21T18:16:44.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "HLNE5gdifzc"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/HLNE5gdifzc/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/HLNE5gdifzc/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/HLNE5gdifzc/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/HLNE5gdifzc/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/HLNE5gdifzc/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "ラッシャイナ / 柊マグネタイト 歌ってみた 9Lana",
+      "videoOwnerChannelTitle" : "9Lana",
+      "videoOwnerChannelId" : "UC7z-RiUCCbQqZPlqRgJtkPw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "Nynb2Yk7OnQOeO9yYsU3RHgHzos",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BOTNBOTE4QzFCOTIzMTNF",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "本家様⇒ https://youtu.be/96lIO4tnpNo\n\nMIX ⇒ 妃舞ゆにこ様(https://mobile.twitter.com/ema_yuni_ko)\nENC ⇒ らふどん様(https://mobile.twitter.com/rfdn_0117)\n \nvo⇒9Lana(https://mobile.twitter.com/9Lana2)\n\n#歌ってみた #Casino",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 16,
+      "publishedAt" : "2022-11-21T18:00:16.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "7OLF8VujA6E"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/7OLF8VujA6E/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/7OLF8VujA6E/hqdefault.jpg",
+          "width" : 480
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/7OLF8VujA6E/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/7OLF8VujA6E/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "Casino＿歌ってみた　9Lana",
+      "videoOwnerChannelTitle" : "9Lana",
+      "videoOwnerChannelId" : "UC7z-RiUCCbQqZPlqRgJtkPw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "L3CwiTBUGBw1BgwXh8nAKh9TY_4",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xMEQxNjdEQzZCRkVDNzVC",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "いよわ様の熱異常を歌わせていただきました\n今回のボカコレも激アツでしたね\n\n本家様 https://youtu.be/b2NTglk9tvI\n\n\nvo.mix.enc→9Lana https://mobile.twitter.com/9Lana2\n\n#いよわ #熱異常 #歌ってみた",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 17,
+      "publishedAt" : "2022-11-21T17:57:35.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "uIYgb9RXNuo"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/uIYgb9RXNuo/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/uIYgb9RXNuo/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/uIYgb9RXNuo/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/uIYgb9RXNuo/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/uIYgb9RXNuo/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "熱異常 / 歌ってみた 9Lana",
+      "videoOwnerChannelTitle" : "9Lana",
+      "videoOwnerChannelId" : "UC7z-RiUCCbQqZPlqRgJtkPw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "HZ1xrynwUsaUntG4fJvgv_uvCXo",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40MDJCMzYzMEU2NzcwMjgz",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『 ワンパン\uD83D\uDC4A\uD83C\uDFFB 』\n\n\n■ Original https://youtu.be/mq88yUFdVng\n－Music&Lyrics：すりぃ様\n\n▼ Vocal/Mix：KOMAINU.\nhttps://twitter.com/komainu_com\n\n▼ Playlist Link：https://youtube.com/playlist?list=PLbJDMeseePAoqOqGDVrYRLMuRv1wB-X5l\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nGoods：https://bit.ly/3ld2f3Q\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ 無断転載は御遠慮ください。\nReproduction prohibited.\n\n#ラヴィ\n#cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 18,
+      "publishedAt" : "2022-11-19T11:25:45.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "E4x-A_K6SHY"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/E4x-A_K6SHY/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/E4x-A_K6SHY/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/E4x-A_K6SHY/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/E4x-A_K6SHY/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/E4x-A_K6SHY/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "ラヴィ／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "r9mnEcaGc5D0DH2iY1tiZ4SjtPw",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xOEU5RDM3NEU4MzA4QzNE",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『 もう誰のものでもないわ 』\n\n\n■ Original https://youtu.be/KFCaSz_yYCM\n－Music&Lyrics：Kanaria 様\n\n▼ Vocal/Mix：KOMAINU.\nhttps://twitter.com/komainu_com\n▼ Illust (thumbnail)：우새 \nhttps://twitter.com/oosedenie\n\n▼ Playlist Link：https://youtube.com/playlist?list=PLbJDMeseePAoqOqGDVrYRLMuRv1wB-X5l\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nGoods：https://bit.ly/3ld2f3Q\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ 無断転載は御遠慮ください。\nReproduction prohibited.\n\n#QUEEN\n#cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 19,
+      "publishedAt" : "2022-11-19T01:11:26.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "1VWDn4UcOWc"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/1VWDn4UcOWc/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/1VWDn4UcOWc/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/1VWDn4UcOWc/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/1VWDn4UcOWc/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/1VWDn4UcOWc/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "QUEEN／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "HIRXAnkAPTT-aUbMaBJg5N2EyOE",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43RjlDRkUwMEQ4MEM5RDlC",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『 もう 好きな人だけ守っていたい 』\n\n\n■ Original https://youtu.be/T2kS1gAbxhc\n－Music&Lyrics：ピノキオピー 様\n\n▼ Vocal/Mix：KOMAINU.\nhttps://twitter.com/komainu_com\n▼ Illust (thumbnail)：駄々田ダダ\nhttps://twitter.com/dadada_dandada\n\n▼ Playlist Link：https://youtube.com/playlist?list=PLbJDMeseePAoqOqGDVrYRLMuRv1wB-X5l\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nGoods：https://bit.ly/3ld2f3Q\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ 無断転載は御遠慮ください。\nReproduction prohibited.\n\n#魔法少女とチョコレゐト\n#cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 20,
+      "publishedAt" : "2022-11-19T01:04:56.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "r3sZHK1s49Q"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/r3sZHK1s49Q/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/r3sZHK1s49Q/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/r3sZHK1s49Q/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/r3sZHK1s49Q/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/r3sZHK1s49Q/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "魔法少女とチョコレゐト／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "WSEwC2gxhFjz0ao9HqYeSSVE0oU",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zMDFCRDYxQUY1QjRDMjIw",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『 如何しようもないけど 』\n\n\n■ Original https://youtu.be/jMKPYg0uhCI \n－Music&Lyrics：柊マグネタイト 様\n\n▼ Vocal/Mix：こまいぬ。\nhttps://twitter.com/komainu_com\n▼ Illust (thumbnail)：美甘\nhttps://twitter.com/3k_mo0\n\n▼ Playlist Link：https://youtube.com/playlist?list=PLbJDMeseePAoqOqGDVrYRLMuRv1wB-X5l\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nGoods：https://bit.ly/3ld2f3Q\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ 無断転載は御遠慮ください。\nReproduction prohibited.\n\n追記：2番の歌詞を間違えていました。申し訳御座いません。\n\n#マーシャルマキシマイザー\n#cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 21,
+      "publishedAt" : "2022-11-19T01:01:48.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "k6oX9An3-ns"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/k6oX9An3-ns/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/k6oX9An3-ns/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/k6oX9An3-ns/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/k6oX9An3-ns/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/k6oX9An3-ns/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "マーシャル・マキシマイザー／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "kbuICgu2Zkp2_63Y5SK9-6NUuso",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5DQzQ0MEE1MDNENzc5MTU4",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『 どうやって死ぬのがいい？ 』\n\n\n■ Original https://youtu.be/6GjRRX-YPR8\n－Music&Lyrics：Aoris 様\n\n▼ Vocal/Mix：KOMAINU.\nhttps://twitter.com/komainu_com\n▼ Illust (thumbnail)：nova\nhttps://twitter.com/nova_axl\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nSpotify：https://spoti.fi/3NC0DMZ\n\n▼ Please subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ Reproduction prohibited.\n\n#ヴァニタス #cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 22,
+      "publishedAt" : "2022-11-18T19:10:55.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "QtBmSThmp_4"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/QtBmSThmp_4/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/QtBmSThmp_4/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/QtBmSThmp_4/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/QtBmSThmp_4/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/QtBmSThmp_4/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "ヴァニタス／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "qm1POYMdQrWqVq0u1QQZ_AQVQRM",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42OUU4OTNBNTQzOTA1OUEx",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "幸せになりましょうね\n\n\n◇original\nあだぽしゃ /　いよわ\nhttps://www.youtube.com/watch?v=Wr-2xcQkke4&t=66s\n\n◇mix\nPRISMIX\nhttps://twitter.com/prismix_info\n\n◇cover/illustration/movie\n奇屋敷ゾンゾン\n\n----------\nごきげんゾ！\nデジタルものづくり系Vtuberの奇屋敷（きやしき）ゾンゾンだよ！\nバーチャル世界のファッションスター目指して活動中！\n\nlive2D/3D/イラスト/歌/　←できる！\n\n-------------------------------------------\n\n◆自己紹介動画\nhttps://youtu.be/1N1hWK6zKzc\n\n◆オリジナルソング\n\n◇FANTASTIC! KAWAII! MAGIC! \nhttps://youtu.be/ImEjkZ7zKJc\n\n◇unknown\nhttps://youtu.be/kJK9ZdQFqPs\n\n------------------------------------------\n◆Twitter　◇　コラボ・お仕事のお誘いはDMからどうぞ！\nhttps://twitter.com/kiyashikizonzon\n\n◆FANBOX\nhttps://zonchang.fanbox.cc/\n\n◆ココナラ（ご依頼関係はここから）\nhttps://coconala.com/users/1888096\n\n◆amazon\nhttps://www.amazon.co.jp/hz/wishlist/ls/1X1N6IRSQVSWL?ref_=wl_share\n\n◆マシュマロ\nhttps://marshmallow-qa.com/kiyashikizonzon?utm_medium=url_text&utm_source=promotion",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 23,
+      "publishedAt" : "2022-11-18T05:58:00.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "7rLm7Hc1HDU"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/7rLm7Hc1HDU/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/7rLm7Hc1HDU/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/7rLm7Hc1HDU/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/7rLm7Hc1HDU/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/7rLm7Hc1HDU/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "あだぽしゃ/ 奇屋敷ゾンゾン cover",
+      "videoOwnerChannelTitle" : "奇屋敷ゾンゾン",
+      "videoOwnerChannelId" : "UCnXuFlcjgDhZeDj1fQIMwkA"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "RA1civVPOGeFB25BuFlMpzj7d_I",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40RTgwRTAzODlGMjdBREIy",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "original https://youtu.be/vB8sxY_PJ_w\n\nvocal @mtnox3\n\nmix   @tec_fullbody",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 24,
+      "publishedAt" : "2022-11-15T05:39:53.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "dKkOOrA4JCM"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/dKkOOrA4JCM/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/dKkOOrA4JCM/hqdefault.jpg",
+          "width" : 480
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/dKkOOrA4JCM/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/dKkOOrA4JCM/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "# 酔いどれ知らず/歌ってみた",
+      "videoOwnerChannelTitle" : "m",
+      "videoOwnerChannelId" : "UCGZt-jeZ5RHJC1gw8z88s0Q"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "235JYCAbT19q8SUt2ak8eDEFK1A",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43QTNBRkFFNUEwOUYyOUU0",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『全部、お前のせい（おかげ）です』\n\n\uD83D\uDC97\uD83C\uDF83\uD83D\uDC97※イヤホンで聴くと左右動いて、とっても楽しくてオススメです。\uD83D\uDC97\uD83C\uDF83\uD83D\uDC97\n\n新曲完成しました。\nゾクゾクゾクゾクしたい…そんな夜にどうぞ。\n\nテーマは『…信じたかった』\nイラストはミヤマオワリさん。\n\n「なんねぇコレ！？」と思ったら低評価ボタンお待ちしてます。\n\n映像・音楽：みつあくま　https://twitter.com/mitsu_akuma\nイラスト：ミヤマオワリ　https://twitter.com/END80236189\n\nプロセカNEXT応募曲です。\n第15回プロセカNEXT応募楽曲\n\nコミュニティも更新中\nhttps://www.youtube.com/channel/UCtne7wC5nEDx5p4JzJf9JHQ\n\n歌詞と、オフボーカルです\nhttps://drive.google.com/drive/folders/17jgXHCvybwAagMsli5M8sMR1igz4y1HX?usp=share_link\n\nジャンル：Enegetic Trance\n#初音ミク #プロセカNEXT #みつあくま\n\nHey, rumors I heard recently\nI feel so sad that I feel like I'm going to vomit\nDay By Day, Mirror with bloody cracks\nThe girl was crouching and laughing at the front door\n\nI put up with the pain\nI'm used to the liquid with a bitter taste\nI would be confused without you\nHey you? I will be a girl who is convenient for you...\n\nLove...\n\nEvidence destruction, girl innocence\nPlease keep it secret from mom\nThe bruise has disappeared, but the life (body) remains dirty\nAre you ready?  not yet\nCrack in the heart It's just strange \nMacaroons that are hard and cannot be chewed\nWhere should I hide it? I can't rely on anyone\nAre you ready?  that's enough \n\nCommon worries\nWaste money Temporary illness\nGive up and light a lighter \n\nHey, that child with the nickname \"bye fungus\"\nBye-bye, missing from Friday\nThe hair quality was terrible\nIs it fate that both parents and children cry in the locker? \n\nProhibition of unexplained use\nIrresponsible and precious warmth\nThere were a lot of talisman stuck in the locker\nHey, Don't be silly \n\n(At first glance!?)\n\nEvidence destruction, display of girl\nWithout knowing mom\nSpinning from pleasure\nInnocently frozen finger\nHey good?\nIt's okay today\n\nFeelings are anemic, bleeding ^^\nJunk Kagura Karma\nWho should I go to?\nI can't tell anyone\nI'm done ...\nthat's enough",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 25,
+      "publishedAt" : "2022-11-11T14:15:36.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "g3TuH3UXkos"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/g3TuH3UXkos/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/g3TuH3UXkos/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/g3TuH3UXkos/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/g3TuH3UXkos/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/g3TuH3UXkos/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : ".",
+      "videoOwnerChannelTitle" : "みつあくま(mitsu)",
+      "videoOwnerChannelId" : "UCtne7wC5nEDx5p4JzJf9JHQ"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "DQw7Ldir_YH5SN6-OalSw0RqCjc",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42ODA4Qjg3RUJDQzhBMTA0",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "\uD83E\uDDEC\uD83D\uDC97ｸｭﾁｬﾝ・お誕生日記念\uD83E\uDDEC\uD83D\uDC97\n\nいつか下界にある身体がしぬときに、このたましいで、誰かのなかで繋がれて永遠に生き続けてやるのが目標❣️\n\nすべての人類に \uD835\uDC35\uD835\uDC3C\uD835\uDC3A感謝\n\n:\n\n\n\uD83D\uDCBF楽曲 \n【 1000年生きてる 】\n\n\uD83D\uDCFA本家 \n　https://youtu.be/3em-J9yYPAo\n\n\uD83C\uDFB6作詞/作曲/本家MV \n　いよわさま \n　YouTube : https://youtube.com/channel/UCLz6MG2kx_0xeaW0LowYnMQ\n　Twitter : https://twitter.com/igusuri_please\n\n\uD83C\uDFA8イラスト \n　井戸さま : https://twitter.com/malicecila\n\n\uD83C\uDFA7mix \n　燎【yori】さま : https://twitter.com/youri_leLion\n\n\uD83C\uDF9E動画\n　瑞原りたさま\n　YouTube : https://youtube.com/channel/UCZCVXcDFfjaQsTaDx1gNfsA\n　Twitter : https://twitter.com/rita_vcr\n\n\uD83E\uDD1D\uD83C\uDFFB‪録音協力\n　スタジオぷろぺらさま : https://twitter.com/ST_PROPELLER\n\n\uD83C\uDFA4うた\n　紫煙くゆる\n\n:\n\n世界一ヵヮィィくて愛するべき\n\uD835\uDCFC\uD835\uDCF8 \uD835\uDCEC\uD835\uDCFE\uD835\uDCFD\uD835\uDCEE上位存在\uD83C\uDFB6\n\nおおごえではまけません。\nジャングルではおおごえだせるやつがつよい。\nつまり、おまえらはよわい。\n\nなにがなんでもだ 推せ❣️\nおまえらをにがさんぞ\n\n\uD83E\uDD0D ついった~\n　https://mobile.twitter.com/purple_dawn_\n\n\uD83E\uDD0D くゅほめる餌付けﾏﾛ\n　https://marshmallow-qa.com/purple_daw...\n\n\uD83E\uDD0D そのたくわしいこと\n　https://lit.link/kuyu\n\n\uD83E\uDD0D はいしんみてたら # しえんみてる\n\uD83E\uDD0D くゅをかいたら # しえんくれる\n\uD83E\uDD0D 応援してくれる人類 # 天界人 (ﾃﾝｶｲﾋﾞﾄ)\n\uD83E\uDD0D 応援のﾏｰｸ = \uD83E\uDDEC\uD83D\uDC97\n\n#初投稿 #歌ってみた #うたみた #しえんうたう #新人Vtuber #Vtuber",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 26,
+      "publishedAt" : "2022-11-08T06:37:27.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "izBkuCbJo3A"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/izBkuCbJo3A/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/izBkuCbJo3A/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/izBkuCbJo3A/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/izBkuCbJo3A/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/izBkuCbJo3A/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "【 1000年生きてる : \uD835\uDD54\uD835\uDD60\uD835\uDD67\uD835\uDD56\uD835\uDD63\uD835\uDD55 \uD835\uDD53\uD835\uDD6A 紫煙くゆる 】",
+      "videoOwnerChannelTitle" : "​紫煙くゆるの救済大聖堂",
+      "videoOwnerChannelId" : "UCCkoy1vwj1-OlUIKQVEN0QA"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "QGTOMXa1llz5dPjUYeYvpWeB13g",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BMzJBNTREM0I1Njg1NEE2",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "■ 素敵な本家様 / ツミキ  様　　key / -3\n[ https://www.youtube.com/watch?v=9QLT1Aw_45s&t=12s ]\n\n□ MIX・Mastering / 天糖しょこら 様\nTwitter [ https://twitter.com/chocolat__sing ]\nYouTube [ https://www.youtube.com/playlist?list=PLnzFv-9FwN-5AbkzRMlbtQSicbM4lMTnZ ]\n HP [ http://edogawarecords.com/ ]\n\n■ Mixing Director / 江戸川スミス 様\nTwitter [ https://twitter.com/edogawa_smith ]\n HP [ http://edogawarecords.com/ ]\n\n□ Encode / 下着の中の中核を担うには少し早いかもしれない倉富さん 様\n\n■ Vocal / 柘榴-zakuro-\nTwitter [ https://twitter.com/zakuro_96 ]\nYouTube [ https://www.youtube.com/c/zakuroChannel ]\nニコニコ動画 [ https://www.nicovideo.jp/mylist/50718003 ]\nツイキャス [ https://twitcasting.tv/zakuro_96 ]\n\n□ Chorus / ゆうひ 様\nTwitter [ https://twitter.com/_yu_hiii ]\nYouTube [ https://www.youtube.com/channel/UCCID9nZO0Ll4v2vPPAvfAVw ]\n\n\nチャンネル登録、高評価よろしくお願いします！\n\n\n#フォニイ　#ツミキ　#柘榴　#歌ってみた　#cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 27,
+      "publishedAt" : "2022-11-08T06:27:28.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "YG06Ongm7zw"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/YG06Ongm7zw/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/YG06Ongm7zw/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/YG06Ongm7zw/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/YG06Ongm7zw/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/YG06Ongm7zw/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "フォニイ / ツミキ cover. by 柘榴 feat.ゆうひ",
+      "videoOwnerChannelTitle" : "zakuro channel",
+      "videoOwnerChannelId" : "UCT0GO54cT_RxKN-Ou2PwTsw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "el7jxNyhi8WDBWJEdSDcgdXPY4k",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5DQzk0NUI1MDg2MUQ1MURC",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Original - https://m.youtube.com/watch?v=NMiQmumW0nI\n\nMusic - r-906\nIllustration & Movie - サクヤ \nSong - IA [CeVIO AI] \n(※本家様のMVを使用させていただいております。)\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\nVocal - senq\nhttps://twitter.com/senqsn\n\nMix - Koya\nhttps://twitter.com/koya_1213\n\nEnc - はれいゆ\nhttps://m.youtube.com/c/pplwht \nhttps://twitter.com/pplwht\n\nSuper cute thumbnail illust-  えぬ\nhttps://twitter.com/41cks\n\nThank you for listening to tried singing !!\n\n※無断転載禁止/未授权转载禁止/Do Not Re-upload.\n※アレンジが含まれますので苦手な方はブラウザバックをお願い致します。",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 28,
+      "publishedAt" : "2022-11-08T06:25:59.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "1Glfa-H26bk"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/1Glfa-H26bk/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/1Glfa-H26bk/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/1Glfa-H26bk/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/1Glfa-H26bk/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/1Glfa-H26bk/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "ノウナイディスコ / r-906 - senq. (cover)",
+      "videoOwnerChannelTitle" : "senq.",
+      "videoOwnerChannelId" : "UCbHUw_7RVpNzoq1bqNDrAGg"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "DaNE0r5vtDZExQCdRlSIelLn4fI",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4yQTY4RkUxQUY2RUEzOEQ5",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "-\n\n何年経っても　いじめっこの君は幸せそうだった\n\n本家様‣https://youtu.be/GSpwTvYgFrM\n\nIllust : おもちチャウダー( https://twitter.com/omochigomee ) \nMix : ごず ( https://twitter.com/_gozu777 ) \nMovie : オムカ ( https://twitter.com/rexmeltykiss ) \n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n2022/09/30 \n猫又おかゆ 1st Live.『ぽいずにゃ〜しんどろーむ』\nSupported By Bushiroad \nアーカイブ配信チケット・ライブグッズ再受注販売中 ^..^ \uD83D\uDC9C\n\n❥ 特設HP : https://okayu1stlive.hololivepro.com/\n#おかゆソロライブ\n\n❥ (10/11 23:59まで) ライブグッズ申し込みはコチラから(\uD83C\uDFA7\nhttps://okayu1stlive.hololivepro.com/goods/\n\n❥ (10/31 23:59まで) アーカイブ配信チケット 申し込みはコチラから(\uD83C\uDFA7\nhttps://okayu1stlive.hololivepro.com/ticket/\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nTwitter : https://twitter.com/nekomataokayu\n( sub )  : https://twitter.com/MO_OKAYU_GU\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nMember ship \uD83C\uDF59\n❥ 毎月書き下ろしスマホ用壁紙配布\n❥ 名前の横にメンバーバッチの追加\n❥ 専用絵文字の使用\n❥ メンバーシップ限定配信( 企画系ASMR/セリフ読みetc... )\n\n登録はコチラから ୨୧⑅*\nhttps://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw/join\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nhashtag \uD83C\uDF59\n生放送関連 : #生おかゆ 切り抜き : #おに切り\nファンネーム : #おにぎりゃー\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nGoods \uD83D\uDCE2\n\nLINE スタンプ : https://store.line.me/stickershop/product/16921213/ja \n誕生日記念2022 ボイスフルセット : https://shop.hololivepro.com/products/nekomataokayu_bd2022 \n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nホロライブプロダクション\n❥ 公式サイト\nhttps://www.hololive.tv/\n❥ ホロジュール\nhttps://schedule.hololive.tv/#hololive\n❥ 公式Twitter\nhttps://twitter.com/hololivetv\n❥ 公式オンラインショップ\nhttps://hololive.booth.pm/\n❥ ホロライブ公式チャンネル\nhttps://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 29,
+      "publishedAt" : "2022-11-07T14:45:07.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "AhNXr725I4c"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/AhNXr725I4c/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/AhNXr725I4c/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/AhNXr725I4c/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/AhNXr725I4c/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/AhNXr725I4c/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "内臓ありますか / 猫又おかゆ (cover)",
+      "videoOwnerChannelTitle" : "Okayu Ch. 猫又おかゆ",
+      "videoOwnerChannelId" : "UCvaTdHTWBGv3MKj3KVqJVCw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "ihglvlwNUNaFbVd1N57HC7JM1W4",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5GOTZBMEQwMDJGNDAyMkY1",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "息苦しい社会だけれど好きに生きていこう\n本人が歌った→https://www.youtube.com/watch?v=J0kmYFO0UTI\nすりぃ Twitter→https://twitter.com/iii0303_8\n\n\n1st Full Album『パンデミック』収録曲(long ver.)\n全国流通にて再販決定しました。\n以下URLから購入可能です。\n\nBOOTH\nhttps://iii0303.booth.pm/items/1793262\nAmazon\nhttps://www.amazon.co.jp/dp/B086B379VJ\nヴィレッジヴァンガード\nhttps://vvstore.jp/i/vv_0000000000203124/\nアニメイト\nhttps://www.animate-onlineshop.jp/sphone/products/detail.php?product_id=1775032\nタワーレコード\nhttps://tower.jp/item/5040793\n\nMovie:coalowl https://twitter.com/coalowl\nBass:pino https://twitter.com/pinomaru09\n\ninstと歌詞→https://piapro.jp/t/HMtB\ninst+5→https://piapro.jp/t/h_1c",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 30,
+      "publishedAt" : "2022-11-07T06:47:34.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "i-DZukWFR64"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/i-DZukWFR64/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/i-DZukWFR64/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/i-DZukWFR64/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/i-DZukWFR64/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/i-DZukWFR64/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "テレキャスタービーボーイ(long ver.) / すりぃ feat.鏡音レン",
+      "videoOwnerChannelTitle" : "すりぃ",
+      "videoOwnerChannelId" : "UCHGKS3VDKxu3N1u9naM0XYA"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "PqqUvRwOtOn2NmwLPUlX-w8TOd0",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5FRDQyQTg2Q0I3NjQwNjA4",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Original - https://youtu.be/scmZJtHFN1c\n\nMusic,Movie - 柊マグネタイト\nIllustration - あさ \nGuitar - C'Na \n(※本家様のMVを使用させていただいております。)\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\nVocal - senq\nhttps://twitter.com/senqsn\n\nMix - このしろ\nhttps://twitter.com/konosiroisakana\n\n\nThank you for listening to tried singing !!\n※無断転載禁止/未授权转载禁止/Do Not Re-upload.",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 31,
+      "publishedAt" : "2022-11-07T06:26:24.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "wWmv_p4QAnA"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/wWmv_p4QAnA/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/wWmv_p4QAnA/hqdefault.jpg",
+          "width" : 480
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/wWmv_p4QAnA/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/wWmv_p4QAnA/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "撫でんな / 柊マグネタイト - senq. (cover)",
+      "videoOwnerChannelTitle" : "senq.",
+      "videoOwnerChannelId" : "UCbHUw_7RVpNzoq1bqNDrAGg"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "DVPGgTQ4mMwGnXkIa1N4FPRKRaQ",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42QzEzMzAwMzQ0MDhFMzU3",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "■ 素敵な本家様 / すりぃ 様　　key / +2\n[ https://www.youtube.com/watch?v=mq88yUFdVng ]\n\n□ MIX・Mastering / 江戸川スミス 様\nTwitter [ https://twitter.com/edogawa_smith ]\nYouTube [ https://www.youtube.com/watch?v=3GkZX7J5yYQ ]\n HP [ http://edogawarecords.com/ ]\n\n■ Encode / 下着の中の中核を担うには少し早いかもしれない倉富さん 様\n\n□ Vocal / 柘榴-zakuro-\nTwitter [ https://twitter.com/zakuro_96 ]\nYouTube [ https://www.youtube.com/c/zakuroChannel ]\nニコニコ動画 [ https://www.nicovideo.jp/mylist/50718003 ]\nツイキャス [ https://twitcasting.tv/zakuro_96 ]\n\n\nチャンネル登録、高評価よろしくお願いします！\n\n\n#ラヴィ　#すりぃ　#柘榴　#歌ってみた　#cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 32,
+      "publishedAt" : "2022-11-07T06:22:50.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "8UqM7I9rNHU"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/8UqM7I9rNHU/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/8UqM7I9rNHU/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/8UqM7I9rNHU/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/8UqM7I9rNHU/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/8UqM7I9rNHU/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "ラヴィ / すりぃ cover. by 柘榴-zakuro-",
+      "videoOwnerChannelTitle" : "zakuro channel",
+      "videoOwnerChannelId" : "UCT0GO54cT_RxKN-Ou2PwTsw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "7Z1WXwTXtgbPUTJ5DToIfWnH_3U",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44OUQ4NTE2RTdCM0REQkFG",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "もう好きな人だけ守っていたい\n\n素敵な本家様：https://youtu.be/T2kS1gAbxhc\n\n歌：\n星川サラ：https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w\n紫咲シオン：https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw\n\nillust：うにちき様　@unixxxchi\nMovie：らいり様　@_Rai28\nネームロゴ：おさとうしおこ様 (@sugar_salty01)\nMix：ぴろぱる様　@PIROPARU\n\n◇Twitter：Sara_Hoshikawa\n◇メンバーシップはココから！(月額490円)\n⇒https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n◇星川のファンクラブ！\n⇒https://fanclub.nijisanji.jp/fanclubs/sara-hoshikawa\n◇未成年者の視聴者の方は、リンク先の注意事項も確認してください！\n⇒https://www.anycolor.co.jp/notice-for-minors\n\n※フル尺でないランキング形式の宣伝動画のみ許可しております。\n※ループ耐久動画などの無断転載はやめてください。\n☆••┈┈┈┈••✩••┈┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••✩",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 33,
+      "publishedAt" : "2022-11-05T17:30:32.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "DFGJ8PhjrlM"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/DFGJ8PhjrlM/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/DFGJ8PhjrlM/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/DFGJ8PhjrlM/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/DFGJ8PhjrlM/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/DFGJ8PhjrlM/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "魔法少女とチョコレゐト ♡ 星川サラ＆紫咲シオン【歌ってみた】",
+      "videoOwnerChannelTitle" : "星川サラ / Sara Hoshikawa",
+      "videoOwnerChannelId" : "UC9V3Y3_uzU5e-usObb6IE1w"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "tyFWwmKyh_oEwHG96evKYSa2NH0",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44MDhCNUUzNjc2NTUwQzdG",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "Original - https://youtu.be/dme5-Mtg-AM\n\nMusic - ユギカ\nIllustration  - Jiz \nMovie - Ishitchi\n(※本家様のMVを使用させていただいております。)\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\nVocal - senq.\nhttps://twitter.com/senqsn \n\nMix - Koya\nhttps://twitter.com/koya_1213\n\n\nThank you for listening to tried singing !!\n\n※無断転載禁止/未授权转载禁止/Do Not Re-upload.\n※アレンジが含まれますので苦手な方はブラウザバックをお願い致します。",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 34,
+      "publishedAt" : "2022-11-03T22:36:01.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "kA5Am1racCE"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/kA5Am1racCE/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/kA5Am1racCE/hqdefault.jpg",
+          "width" : 480
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/kA5Am1racCE/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/kA5Am1racCE/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "カプリスキャスト/ユギカ - senq. (cover)",
+      "videoOwnerChannelTitle" : "senq.",
+      "videoOwnerChannelId" : "UCbHUw_7RVpNzoq1bqNDrAGg"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "eEHjR-_Jv2s32CIo4MwvyP5p_gw",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5GQzUxOEEyOURGRjJCNzhE",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "だって私が1番可愛いんだから\n\n\nふじを様の「我儘姫」を歌わせていただきました。\nhttps://youtu.be/pLaPtcmn4Bs\n\n\nVocal＆Mix：Nyaribar\nhttps://twitter.com/nyaribar0110\nThumbnail：冬樹。\nhttps://twitter.com/yuki39_\n\n\n#歌ってみた #我儘姫\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nお仕事・お問い合わせ・制作依頼など\nMail → nyaribar.information@gmail.com\nWeb → https://nyaribar.wixsite.com/-site\nお待ちしております。",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 35,
+      "publishedAt" : "2022-11-03T22:21:27.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "4O3ER73b5z4"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/4O3ER73b5z4/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/4O3ER73b5z4/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/4O3ER73b5z4/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/4O3ER73b5z4/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/4O3ER73b5z4/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "我儘姫 / ふじを - (Cover) Nyaribar",
+      "videoOwnerChannelTitle" : "Nyaribar / にゃりばー",
+      "videoOwnerChannelId" : "UCtBg26fmRHZtIfsNgbYfe7A"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "B8FYsxCOCu6drW8zpDly2cVzXvI",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zNTQ5Q0Y3M0FBQTgxMTBB",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "雑魚〜\n\nMusic:すりぃ https://twitter.com/iii0303_8\nBass:malo https://twitter.com/malonybass\nIllustration:SPIKE https://twitter.com/fluffy_spiky\nMovie:よしだなすび https://twitter.com/Yoshidanasubeam\nMix&Mastering 田本雅浩\n\ninst→ https://www.dropbox.com/sh/w5pxtye8lt1qoei/AAA2qrEp29tDJNrsM7qqeWWya?dl=0\n\n\nスマホゲーム #コンパス 戦闘摂理解析システム\n\"ラヴィ\" テーマソング\n\n「ラヴィ」\n\nラヴィラヴィチュウ\nご褒美ラヴィチュウ\n噛み付いて骨まで\nチュッチュッチュッ\n\nBat 煽ってないの？え？\nおつかれ今日もノーダメージ\nズバッと威張ってたいの！ね？\n笑えるほどに弱虫よ\n\n踊るばぁかばぁか\n無駄ねほらほら\nごめんちょっとタンマ\n大草原\nやばめドッキドキ　\n本音ラッキラッキー\nマネジメントナンバー\n\n無能無能無能\n意思のアンマッチ\n無能無能無能\n過度に反対\n無能無能無能\nゴミも同然\n無能無能無能\nワンパン\n\nラヴィラヴィチュウ\nご褒美ラヴィチュウ\nあなたじゃ話にならん平凡\nラヴィラヴィチュウ\n下等ねラヴィチュウ\n噛み付いて骨まで\nチュッチュッチュッ\n声を頂戴　涙頂戴\nヤミーヤミーヤミー\n声を頂戴　涙頂戴\nラヴィラヴィラヴィ\n\n弱音吐いて悶えたって\n無駄で無駄で愚かさすら気付けないよね\n喉渇いて血を含んで\n悪い悪い顔で笑う逃げちゃダメダメ\n手に入れろ生出して\n馬鹿だろお前まじで\nこの傷倍貸しね\n恐怖から這いつくばって\n\nラヴィラヴィチュウ\n絞ってラヴィチュウ\n断末魔の叫びと忠誠を\nラヴィラヴィチュウ\n非凡のラヴィチュウ\n奪いとれ命を\nチュッチュッチュッ\n逃げちゃダメ枯れちゃダメ\nヤミーヤミーヤミー\n逃げちゃダメ枯れちゃダメ\nラヴィラヴィラヴィ\n\n無能無能無能\n意思のアンマッチ\n無能無能無能\n過度に反対\n無能無能無能\nゴミも同然\n無能無能無能\nワンパン\n\nラヴィラヴィチュウ\nご褒美ラヴィチュウ\nあなたじゃ話にならん平凡\nラヴィラヴィチュウ\n下等ねラヴィチュウ\n噛み付いて骨まで\nチュッチュッチュッ\n声を頂戴　涙頂戴\nヤミーヤミーヤミー\n声を頂戴　涙頂戴\nラヴィラヴィラヴィ\nヤミーヤミーラヴィ\n\n#ラヴィ",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 36,
+      "publishedAt" : "2022-11-03T22:09:15.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "mq88yUFdVng"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/mq88yUFdVng/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/mq88yUFdVng/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/mq88yUFdVng/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/mq88yUFdVng/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/mq88yUFdVng/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "ラヴィ(Lavie) / すりぃ feat.鏡音レン",
+      "videoOwnerChannelTitle" : "すりぃ",
+      "videoOwnerChannelId" : "UCHGKS3VDKxu3N1u9naM0XYA"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "vjSExY4qSTFzS1cw7oM24jCRQIA",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40MUFEN0ExOUQyOUIxNEI5",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "柊マグネタイトと申します。十四作品目。\n\n\n作詞作編曲MIX&Mastering映像 / 柊マグネタイト\nhttps://twitter.com/hiiragi_magne\n\n絵 / あさ\nhttps://twitter.com/o0_asa_0o\n\nGuitar&Arrange / C'Na\nhttps://twitter.com/CNa_Qe\n\ninst（offvocal）,歌詞,音声なしMV,MIDIなど【BPM128】\n▶️ https://drive.google.com/drive/folders/18erqyGDH9KB_NWvxTWMgE_2N2lARFoBa?usp=sharing\n\n自作品再生リストはこちら\n▶️ https://youtube.com/playlist?list=PLSXruysuXxNgvP3I_1-6ACwpjkS3HakJx\n\n- 歌詞 -\n\nラッシャイナ\n\nアンバランス混沌 XXX\nアンバランス混沌 XXX\nアンバランス混沌 XXX\n見た目が眼 脳\n\nたぶらかして本能 XXX\nたぶらかして本能 XXX\nたぶらかして本能 XXX\n見たけりゃ「ペイ」を\n\n壊落ライ瑪瑙奪いガール\n「唖々、そんな感じなんだ」\n「唖々、そんな感じなんだ」\n——で？\n\n怠惰喰らい外道飼い廻る\n「じゃあ、こんな惨事なんで？」\n「じゃあ、こんな惨事なんで？」\n——言え。\n\n非(あら) 非 非\n「じゃあ、暗くなった帰る」\n「じゃあ、暗くなった帰る」\n——ばーい。\n\n散(ばら) 散 非\n「まあ、ちょっと痛いけどいいよね？」\n\n「はい」\nラッシャイ！ラッシャイ！ライシャイナ！否！\n皆！くたばる！管！管！管！苦だ！\n\nホラ吹きばかりだ！愚者！\n皆！ぐしゃ！ぐしゃ！ぐしゃ！ぐしゃ！ぐしゃ！\n\nてんてれんすとんとん XXX\nてんてれんすとんとん XXX\nてんてれんすとんとん XXX\n痛けりゃ「ペイ」どーぞ\n\nただただ破壊 破壊 躁\n「こんな感じなんだ」\n「へー、こんな感じなんだ」\n——えー嫌。\n\n散 散 非\n「まあちょっと酷いけどいいよね？」\n\n「はい」\nラッシャイ！ラッシャイ！ラッシャイナ！否！\n皆！くたばる！砕！砕！砕！苦だ！\n\nホラ吹きばかりだ！愚者！\n皆！ぐしゃ！ぐしゃ！ぐしゃ！ぐしゃ！ぐしゃ！\n\n「何も分からん侭、此れで終わり！」\n「じゃあ、寝るからまた来世(あと)で！」\n\n「はい」\nラッシャイ！ラッシャイ！ラッシャイナ！否！\n皆！くたばる！苦だ！苦だ！苦だ！",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 37,
+      "publishedAt" : "2022-11-01T22:16:01.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "6yRl1tQ6y4U"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/6yRl1tQ6y4U/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/6yRl1tQ6y4U/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/6yRl1tQ6y4U/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/6yRl1tQ6y4U/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/6yRl1tQ6y4U/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "柊マグネタイト - ラッシャイナ feat. 可不",
+      "videoOwnerChannelTitle" : "柊マグネタイト",
+      "videoOwnerChannelId" : "UCFXkDxCa_XVcNC7oOEw7U5g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "ifaf9SEWr1V9k1o46UscN5iq87U",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42N0Q3M0QwMUVCM0U0RDkw",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『 穿つこの目で 』\n\n\n■ Original【 https://youtu.be/sSHkXxADtaE 】\n－Music&Lyrics @Kanaria 様\n\n■ Vocal/Mix こまいぬ。\n▽ Twitter【 https://twitter.com/komainu_com 】\n▽ ツイキャス【 https://twitcasting.tv/komainu_com 】\n▽ グッズ通販【 https://komainu-com.booth.pm/ 】\n\n■ Illust (thumbnail) 毒電話\n▽ Twitter【 https://twitter.com/kyoddao 】\n\n⚠︎ 無断転載はご遠慮ください。\nReproduction prohibited.\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！　\n【 http://youtube.com/c/KOMAINU/?sub_confirmation=1 】\n\n#EYE\n#歌ってみた\n#Kanaria",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 38,
+      "publishedAt" : "2022-11-01T10:08:11.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "_yFS4b7NNW8"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/_yFS4b7NNW8/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/_yFS4b7NNW8/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/_yFS4b7NNW8/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/_yFS4b7NNW8/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/_yFS4b7NNW8/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "EYE／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "50xL4jlQ3XEE65JwnSKbsq8Bqiw",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zREU1Njg4NDUwMjQ0NDMz",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『 最後のジョーカー引き当てて 』\n\n\n■ Original https://youtu.be/L9Amln_KTxg\n－Music&Lyrics：マイキP 様\n\n▼ Vocal/Mix：こまいぬ。\nhttps://twitter.com/komainu_com\n▼ Mastering：サカモットゥー \nhttps://twitter.com/SAKASAKAmax\n\n▼ Playlist Link：https://youtube.com/playlist?list=PLbJDMeseePAoqOqGDVrYRLMuRv1wB-X5l\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nGoods：https://bit.ly/3ld2f3Q\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ 無断転載は御遠慮ください。\nReproduction prohibited.\n\n#アンチジョーカー #cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 39,
+      "publishedAt" : "2022-11-01T10:06:07.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "ZY1RpPkNcpQ"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/ZY1RpPkNcpQ/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/ZY1RpPkNcpQ/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/ZY1RpPkNcpQ/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/ZY1RpPkNcpQ/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/ZY1RpPkNcpQ/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "アンチジョーカー／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "TXR4TR6Xwt0a-zvPHt0JxSW738c",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4wOUFBRkQ2NUFFM0NBNkZG",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『 拝！！』\n\n\n■ Original https://youtu.be/MenDsq-BK4Y\n－Music&Lyrics：柊マグネタイト 様\n\n▼ Vocal/Mix：KOMAINU.\nhttps://twitter.com/komainu_com\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nSpotify：https://spoti.fi/3NC0DMZ\nGoods：https://bit.ly/3ld2f3Q\n\n▼ Please subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ Reproduction prohibited.\n\n#傀儡阿修羅\n#cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 40,
+      "publishedAt" : "2022-11-01T10:04:36.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "qbb2mq6geak"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/qbb2mq6geak/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/qbb2mq6geak/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/qbb2mq6geak/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/qbb2mq6geak/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/qbb2mq6geak/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "傀儡阿修羅／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "Ii7ckTPDUMQL18NMlM2oev-C68I",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BODgyQjdGNUQ5NUEyQTU3",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 41,
+      "publishedAt" : "2022-11-01T09:46:01.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "anlOHlMn41g"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/anlOHlMn41g/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/anlOHlMn41g/hqdefault.jpg",
+          "width" : 480
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/anlOHlMn41g/mqdefault.jpg",
+          "width" : 320
+        }
+      },
+      "title" : "[MUSIC] 씨엔블루 (CNBLUE) - 외톨이야",
+      "videoOwnerChannelTitle" : "mas22lhls",
+      "videoOwnerChannelId" : "UCGLR7n6ydfnaWmi_Im5XUvA"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "Kg8W5z_qo_QiCEe7uQOyrZDnXXM",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5CNTZGMjVCRkQxNjhERDA1",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "『泡沫、それは一時の恋だとしても』\n\n\n今回はあみノさんと闇っぽい曲を作ってみました。\nみつあくまはサクマドロップスみたいに色んな飴が入ってる感じ。\n\nもし気に入っていただけたら、高評価、チャンネル登録\nもしくはコメントいただけると嬉しいです。\n\ninst&MIDI（気軽に聞いてみてください、歌ってみた投稿や動画での使用もOKです\uD83E\uDD17）\nhttps://6.gigafile.nu/0417-c5b5cc2a87fea2e7a53aab06d278a1c4b\nキー違い（-2、-3、-4）もあります。\n\nうたかた：儚い\nアリア：旋律\n\n音楽・映像：みつあくま　https://twitter.com/mitsu_akuma\nイラスト：あみノ　https://twitter.com/Li0A4\n第7回プロセカNEXT応募楽曲　になります。\n\nカラオケデータ希望の方はTwitterでDMください！\n\nこれまでの頑張って作った曲プレイリスト\nhttps://www.youtube.com/watch?v=HWUNBDg8UnU&list=PLOHlhErppFU6ifjSRvNfCbGQsaTuruiOs&index=2\n\nコミュニティも更新してます。絵師さんの可愛いイラストいっぱい公開中。\nhttps://www.youtube.com/channel/UCtne7wC5nEDx5p4JzJf9JHQ/community\n\nThe translated lyrics are below.\nIf you don't understand Japanese, please take a look.\n\n#初音ミク #プロセカNEXT #みつあくま\n\nCatharsis\nJudgment order\nRomanticist panting for philosophy\n\nNot recorded\nSo i exist\nMoralists pretend to be literature\n\nIn an irreversible world\nmelancholic\nGood night with karma\nI'm drowning while being strangled\n\nMoisturize with a fleeting aria\nI'll wash your body with pounding foam\n\nRock-paper-scissors\nDignified in Aria\nI'll make you flutter\nKahahahaha\n\nYou can hear the karma song\nAnd Then There Were None\n\nPlatonic with uncertain feelings\nSee, trip without hiding the anima\nTears spill while being strangled\n\nBubbling with a fleeting aria\nI'll wash your body with pounding foam\n\nI'm crazy about damp cigarettes\nI vaguely tell you that I like you cute\n\nMoisturize with a fleeting aria\nLet's fit our bodies\n\nRock-paper-scissors\nDignified in Aria\nI'll make you flutter\nKahahahaha\n（日本語より、やけに英語の方が直球でエロいのでGoogle翻訳に入れると面白いです）\n\nカタルシスよ\n裁く秩序\n哲学に喘ぐロマンチスト\n\n記されない\n故に我あり\n文学を気取るはモラリスト\n\n不可逆的なセカイで\nメランコリック\nカルマ抱えたまま　おやすみ\nほだされたまま溺レル\n\nうたかた　アリアで潤して\nもうドキ☆ドキバブリー泡洗体\n\nちっけったー\nアリアで凛として\nフラ☆フラにしちゃうゾ\nキャハハハハ\n\nカルマの歌が聞こえてくるよ\nそして誰もいなくなった世界線\n\n不確かな想いでプラトニック\nアニマ隠さずにほらトリップ\nほだされたまま零レル\n\nうたかた　アリアで泡立って\nもうドキ☆ドキ　ラヴリィ～泡洗体\n\n湿気った\ntabaccoでイキがっちゃって\nきゃわ☆きゃわな貴方に\n曖昧 eye　my　mind\n\nうたかた　アリアで潤して\nもうドキ☆ドキ身体を合わせんしゃい\n\nちっけったー\nアリアで凛として\nフラ☆フラにしちゃうゾ\nキャハハハハ",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 42,
+      "publishedAt" : "2022-11-01T09:42:59.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "MiVz9rp0Vzc"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/MiVz9rp0Vzc/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/MiVz9rp0Vzc/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/MiVz9rp0Vzc/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/MiVz9rp0Vzc/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/MiVz9rp0Vzc/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "うたかたアリア(Ephemeral Melody) / みつあくまと初音ミク【プロセカNEXT】",
+      "videoOwnerChannelTitle" : "みつあくま(mitsu)",
+      "videoOwnerChannelId" : "UCtne7wC5nEDx5p4JzJf9JHQ"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "1cYfvvnlShFDtN4rW7uUV6SeVpQ",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi41RDVERUI0MDM0NTlGRkQx",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "わたしの好きな歌を歌います。53曲目。\n\n\nカバーさせていただきました。\n\n「ヴァンパイア」\n作詞・作曲・編曲：DECO*27\nhttps://youtu.be/e1xCOsgWG0M\n\n\nIllustration：適当緑（ https://twitter.com/tekito_midori ）\n\n\nMix：＄ＫＩＹＡＫＩ＄ＫＩ\n\n©DECO*27 / ©OTOIRO\n\n---\n\n2021.12.8リリース\nヰ世界情緒 1st ALBUM「創生」\nStreaming & Download：https://lnk.to/isekaijoucho_creation\nCD：https://findmestore.thinkr.jp/blogs/features/isekaijoucho211023#item_01\n\n---\n\nヰ世界情緒(いせかいじょうちょ)Twitter　https://twitter.com/isekaijoucho\nKAMITSUBAKI STUDIO　https://twitter.com/kamitsubaki_jp\n\n#ヰ世界情緒\n#KAMITSUBAKI_STUDIO",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 43,
+      "publishedAt" : "2022-10-31T10:46:44.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "FlaDmgzCgYM"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/FlaDmgzCgYM/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/FlaDmgzCgYM/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/FlaDmgzCgYM/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/FlaDmgzCgYM/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/FlaDmgzCgYM/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "【歌ってみた】ヴァンパイア/ covered by ヰ世界情緒",
+      "videoOwnerChannelTitle" : "ヰ世界情緒 -Isekaijoucho-",
+      "videoOwnerChannelId" : "UCah4_WVjmr8XA7i5aigwV-Q"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "dpcB30ixWN0244msR8LBqE0J5i8",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4yMzFDNkE5M0I5MjI3NUE0",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "本家　https://youtu.be/8JXiXt0D6tw\n\n\n\n\n\n\n\n\n絵　△○□× 　(@miwasiba)\n混　こまいぬ。 　  (@komainu_com)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp/\n【お問い合わせ】\nhttps://www.nijisanji.jp/contact\n\n\n※未成年者の視聴者の方々は、下記リンク先の注意事項もご覧ください。\nhttps://www.anycolor.co.jp/notice-for-minors",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 44,
+      "publishedAt" : "2022-10-30T17:13:57.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "M7szcadThQc"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/M7szcadThQc/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/M7szcadThQc/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/M7szcadThQc/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/M7szcadThQc/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/M7szcadThQc/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "Who?    /    ましろ爻   cover",
+      "videoOwnerChannelTitle" : "ましろ",
+      "videoOwnerChannelId" : "UCS-XXTgVkotkbkDnGEprXpg"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "fk8AO8aNZ4iByrMVwRvn4YzxUzo",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5EN0E0MjMyMEY5RjIxNDc4",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "「きっと君も原曲キーに狂ってんだ」\n\n原曲：https://youtu.be/9O2VyUM5MlQ\n\nVocal：ウォルピスカーター\n（ https://twitter.com/wolpis_kater ）\n\nMix：りする\n（ https://twitter.com/risru17 ）",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 45,
+      "publishedAt" : "2022-10-30T05:06:21.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "gAA5aJazlg0"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/gAA5aJazlg0/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/gAA5aJazlg0/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/gAA5aJazlg0/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/gAA5aJazlg0/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/gAA5aJazlg0/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "まにまに / r-906 -Cover-ウォルピスカーター",
+      "videoOwnerChannelTitle" : "ウォルピス社",
+      "videoOwnerChannelId" : "UCrFREdqSkLslvG2BpYpZHmg"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "9j_5M3Dj-1xsRHDxfKEe1JbmYoY",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5EOUY5Mzk1MTdBNkFERUU3",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "\uD83C\uDF6B\uD83C\uDF83\uD83D\uDC95\n\n\n■ Original https://youtu.be/-F_iX-La024\n－Music&Lyrics：ピノキオピー様\n\n▼ Vocal/Mix：KOMAINU.\nhttps://twitter.com/komainu_com\n▼ Illust (thumbnail)：D:kou\nhttps://twitter.com/d16_uoxou\n\n▼ Playlist Link：https://youtube.com/playlist?list=PLbJDMeseePAoqOqGDVrYRLMuRv1wB-X5l\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nGoods：https://bit.ly/3ld2f3Q\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ 無断転載は御遠慮ください。\nReproduction prohibited.\n\n#キラースパイダー\n#cover",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 46,
+      "publishedAt" : "2022-10-29T18:27:05.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "JsVg23ZHrQk"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/JsVg23ZHrQk/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/JsVg23ZHrQk/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/JsVg23ZHrQk/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/JsVg23ZHrQk/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/JsVg23ZHrQk/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "キラースパイダー／歌ってみた【こまいぬ。】",
+      "videoOwnerChannelTitle" : "KOMAINU.",
+      "videoOwnerChannelId" : "UCTrtDqzp7fe5KBEvrhtiN8g"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "-iFeHiyiRPIi4vsCrX2ad_KvrY8",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi41NzM2MjIwMkNBRDAxNEIy",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "胃が弱いからいよわです。\n\n－－－－－－－－－－－－－－－－－－－－－－\nshabondama 2023SS とのコラボ楽曲です。\nhttps://youtu.be/eNfMuA0F2Is\n\nshabondama 2023SS商品の受注期間は10/31 23:59迄となります。\n商品はWEBSHOPよりご覧いただけます。\ntwitter https://twitter.com/shabondama_info\nHP　https://shab0ndama.wixsite.com/website​\nWEBSHOP  https://shab0ndama.thebase.in/\n－－－－－－－－－－－－－－－－－－－－－－\n\n歌唱: 初音ミク\n楽曲・動画 : いよわ\n服飾デザイン・共同キャラクターデザイン : みこいす\n（敬称略）",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 47,
+      "publishedAt" : "2022-10-26T14:16:33.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "1LBbOldnZcA"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/1LBbOldnZcA/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/1LBbOldnZcA/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/1LBbOldnZcA/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/1LBbOldnZcA/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/1LBbOldnZcA/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "頬が乾くまで / いよわ feat.初音ミク（Till your tear goes / Iyowa feat.Hatsune Miku）",
+      "videoOwnerChannelTitle" : "いよわ/ iyowa",
+      "videoOwnerChannelId" : "UCLz6MG2kx_0xeaW0LowYnMQ"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "p8FkWE8XqSdf0seswoD4zzUnLtg",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5FNzIzMTUyNUY5MUQyM0U1",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "✧Original\nバグ /  かいりきベア\n Bug / Kairiki Bear \nhttps://youtu.be/FkO8ub83wss\n\n25時、ナイトコードで。 × 鏡音レン リスペクトで歌いました。\nhttps://youtu.be/2Ii7UBMxWVw\n\n全部私の声です。\n\n￣￣￣￣￣￣￣￣￣￣￣\nVocal,logo,back illust:七海うらら\nIllust:ホネピンク\nhttps://twitter.com/honepink\nMix:トカク\nhttps://twitter.com/Tokaku_Uta\nMV:らいり\nhttps://twitter.com/_Rai28\n\n✧プロフィール / profile\n￣￣￣￣￣￣￣￣￣￣￣\nTwitter\nhttps://twitter.com/773urara\n\n✧お知らせ /info\n￣￣￣￣￣￣￣￣￣￣￣\n「七海うらら×カワイイ」コンセプト アルバム\n2022年秋 M3&通販にて Release!\n詳細\nhttps://youtu.be/hlgFsLNkEl4\n\n✧楽曲リリース情報 / Original Music \n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nあたしワールド / 七海うらら\nhttps://youtu.be/NYco0gywi00\n\nあいまいみーらいふ♡ / Marble Jewel Box  feat. 七海うらら\nhttps://youtu.be/w7a0wwSy7Is\n\n✧BOOTH\n￣￣￣￣￣\nボイスパック頒布,グッズ販売/ Voicepack goods release\nhttps://urara773.booth.pm/items/3681945\n\n✧FC(FANBOX)\n￣￣￣￣￣\nhttps://urara773.fanbox.cc/\n\n✧その他依頼等 /other\n￣￣￣￣￣￣￣\nhttps://lit.link/773urara\n\n✧問い合わせ/ mail\n￣￣￣￣￣￣￣￣\n773urara2@gmail.com\n\n✧ファンレターやプレゼント\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n〒108-0073\n東京都港区三田一丁目4番1号　住友不動産麻布十番ビル\n\nエイベックス・エンタテイメント株式会社\nレーベル事業本部　デジタルマーケティンググループ\nmuchoo（七海うらら）宛\n\n#歌ってみた #vsinger #新人vtuber #coversong #バグ",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 48,
+      "publishedAt" : "2022-10-26T05:10:47.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "_JgGDGqFXrk"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/_JgGDGqFXrk/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/_JgGDGqFXrk/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/_JgGDGqFXrk/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/_JgGDGqFXrk/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/_JgGDGqFXrk/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "【オリジナルMV】バグ / かいりきベア 歌ってみた【Covered by 七海うらら】",
+      "videoOwnerChannelTitle" : "七海うらら*歌channel",
+      "videoOwnerChannelId" : "UCpmSwekVKXnObCY7hpdHXdQ"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  }, {
+    "etag" : "OEx61c9KbfGp3S1T6Gj2SBpJRlk",
+    "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi45MjU5ODRCNURCRjRCMDA4",
+    "kind" : "youtube#playlistItem",
+    "snippet" : {
+      "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+      "channelTitle" : "mikeeei",
+      "description" : "いこうね\n\n\nOriginal　 いよわ\nhttps://youtu.be/PubukElqUJw\n\nMix　如月結愛\nhttps://twitter.com/primulatelier?s=21&t=MXh496tcxYpaj2-YBEV8aw\n\nArtwork　 ずもち\nhttps://twitter.com/zumoti4?s=21&t=MXh496tcxYpaj2-YBEV8aw\n\n\no-o https://youtu.be/W23g_9pmkkI\n\n\uD81A\uDC0C  \ntw：https://twitter.com/nono0mn?s=21\nyo：youtube.com/@noNo0mn\n\nhttps://no0.fanbox.cc/",
+      "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+      "position" : 49,
+      "publishedAt" : "2022-10-25T03:07:24.000Z",
+      "resourceId" : {
+        "kind" : "youtube#video",
+        "videoId" : "TykhCxxHxK8"
+      },
+      "thumbnails" : {
+        "default" : {
+          "height" : 90,
+          "url" : "https://i.ytimg.com/vi/TykhCxxHxK8/default.jpg",
+          "width" : 120
+        },
+        "high" : {
+          "height" : 360,
+          "url" : "https://i.ytimg.com/vi/TykhCxxHxK8/hqdefault.jpg",
+          "width" : 480
+        },
+        "maxres" : {
+          "height" : 720,
+          "url" : "https://i.ytimg.com/vi/TykhCxxHxK8/maxresdefault.jpg",
+          "width" : 1280
+        },
+        "medium" : {
+          "height" : 180,
+          "url" : "https://i.ytimg.com/vi/TykhCxxHxK8/mqdefault.jpg",
+          "width" : 320
+        },
+        "standard" : {
+          "height" : 480,
+          "url" : "https://i.ytimg.com/vi/TykhCxxHxK8/sddefault.jpg",
+          "width" : 640
+        }
+      },
+      "title" : "異星にいこうね　Cover＿Ｎ",
+      "videoOwnerChannelTitle" : "N",
+      "videoOwnerChannelId" : "UCFMddFVlWOt7LApoMMa3ciw"
+    },
+    "status" : {
+      "privacyStatus" : "public"
+    }
+  } ],
+  "kind" : "youtube#playlistItemListResponse",
+  "nextPageToken" : "EAAaBlBUOkNESQ",
+  "pageInfo" : {
+    "resultsPerPage" : 50,
+    "totalResults" : 507
+  }
+}

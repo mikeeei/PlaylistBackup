@@ -59,11 +59,12 @@ public class Main {
 
             int counter = 0;
             for (Video v : playlistVideos) {
-                System.out.println(v.getTitle() + " ID: " + v.getVideoId());
+                System.out.println(v.getTitle() + "  |  ID: " + v.getVideoId());
                 counter++;
             }
-            System.out.println(counter);
-            System.out.println(playlistVideos.get(0).getTitle());
+            System.out.println();
+            System.out.println(counter + " videos");
+            System.out.println("Latest video: " + playlistVideos.get(0).getTitle() + " by " + playlistVideos.get(0).getVideoOwnerChannelTitle());
 
         } catch (Exception e) {
             e.printStackTrace();
